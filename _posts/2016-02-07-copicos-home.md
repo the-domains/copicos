@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: COPICOS HOME
-datePublished: '2016-02-07T11:39:05.340Z'
-dateModified: '2016-02-07T11:38:51.076Z'
+datePublished: '2016-02-07T11:41:26.916Z'
+dateModified: '2016-02-07T11:41:04.924Z'
 title: 'Brand-Strategie, Digital-Konzepte und Content-Lösungen für Medien, Marken und Unternehmen'
 author: []
 sourcePath: _posts/2016-02-07-copicos-home.md
