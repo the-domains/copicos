@@ -1,7 +1,7 @@
 name: COPICOS
 favicon: null
-layout_spectrum: 0.14711604616604745
-typography_spectrum: 0.23733923607505858
+layout_spectrum: 0.00421
+typography_spectrum: 0.52946
 title: HOME
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8672260281164199
-  lightness: 0.7409986003767699
-  saturation: 0.48573047551326454
-  rhythmicContrast: 0.7274878169409931
+    - '#fcfefd'
+    - '#8e9ca5'
+    - '#d9e1e4'
+    - '#040406'
+    - '#4c5f6e'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
