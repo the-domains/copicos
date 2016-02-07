@@ -1,7 +1,7 @@
 name: COPICOS
 favicon: null
-layout_spectrum: 0.00421
-typography_spectrum: 0.52946
+layout_spectrum: 0.25673
+typography_spectrum: 0.83755
 title: HOME
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#383838'
     - '#878787'
     - '#bababa'
-  brandStrength: 1
-  lightness: 0.6875
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
