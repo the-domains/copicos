@@ -2,6 +2,7 @@ name: COPICOS
 favicon: null
 layout_spectrum: 0.14711604616604745
 typography_spectrum: 0.23733923607505858
+title: HOME
 cta:
   domain: null
   bucket: null
